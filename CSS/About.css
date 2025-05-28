@@ -7,7 +7,7 @@
     margin-bottom: 5%;
     left:3%;
     height: 100vh;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 300;
     display: flex;
     flex-wrap: wrap;
@@ -26,6 +26,7 @@
     font-size: 50px;
     margin-bottom:20px;
     font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
@@ -52,6 +53,8 @@
     animation-name: slide;
     animation-duration: 2s;
     opacity: 1 ;
+     font-size: larger;
+    font-family: 'Times New Roman';
     
   }
 
